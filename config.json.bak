@@ -1,5 +1,5 @@
 {
-  "enableVLibras": false,
+  "enableVLibras": true,
   "controls": {
     "position": "SD",
     "offset": 4,
@@ -12,7 +12,7 @@
     }
   },
    "tts": {
-    "enable": false,
+    "enable": true,
     "defaults": {
       "rate": 1.0,
       "volume": 1.0,
@@ -20,8 +20,8 @@
     }
   },
   "accessibilityLayer": {
-    "enable": false,
-    "debug": false,
+    "enable": true,
+    "debug": true,
     "pointer-events": true
   }
 }
