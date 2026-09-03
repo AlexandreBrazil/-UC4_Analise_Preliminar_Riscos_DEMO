@@ -1,7 +1,7 @@
 {
-  "enableVLibras": false,
+  "enableVLibras": true,
   "controls": {
-    "position": "SE",
+    "position": "SD",
     "offset": 4,
     "separation_space_button": 0,
     "colors": {
